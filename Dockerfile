@@ -1,4 +1,4 @@
-FROM jenkins:1.651.3
+FROM jenkins:2.7.1
 MAINTAINER Naresh Mehta <naresh.mehta@gmail.com>
 
 # Install python-setuptools, python-dev and build-essential
